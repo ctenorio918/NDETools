@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+NDETools/__init__.py
+NDETools/autoCalibrate.py
+NDETools/autoMeasureGUI.py
+NDETools/lossMinimization.py
+NDETools/machineLearning.py
+NDETools/signalProcessing.py
+NDETools/utils.py
+NDETools.egg-info/PKG-INFO
+NDETools.egg-info/SOURCES.txt
+NDETools.egg-info/dependency_links.txt
+NDETools.egg-info/requires.txt
+NDETools.egg-info/top_level.txt
